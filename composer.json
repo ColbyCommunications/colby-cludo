@@ -10,10 +10,11 @@
         }
     ],
     "autoload": {
-    "psr-4": {
-        "ColbyCludo\\API\\": "api/",
-        "ColbyCludo\\CLI\\": "cli/",
-        "ColbyCludo\\Utils\\": "utils/"
+        "psr-4": {
+            "ColbyCludo\\API\\": "api/",
+            "ColbyCludo\\CLI\\": "cli/",
+            "ColbyCludo\\Utils\\": "utils/"
+        }
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -24,4 +25,3 @@
         "php": ">=7.4"
     }
 }
-
