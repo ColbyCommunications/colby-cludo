@@ -107,6 +107,8 @@ add_filter('colby_cludo_register_custom_field', function ($field_registry) {
     return $field_registry;
 });
 ```
+Once the custom fields are registered, navigate to the **Index Settings** tab in the plugin settings and add the new field to the mapping. Custom fields are prefixed with **custom:**.
+
 ---
 
 ## Cron Scheduling
