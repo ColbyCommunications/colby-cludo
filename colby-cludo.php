@@ -3,7 +3,7 @@
  * Plugin Name: Colby Cludo
  * Description: Integrates Cludo search for Colby College.
  * Author: Colby Communications
- * Version: 0.1.0
+ * Version: 1.0
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
