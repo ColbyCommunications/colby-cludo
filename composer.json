@@ -1,6 +1,7 @@
 {
     "name": "colbycommunications/colby-cludo",
     "type": "wordpress-plugin",
+    "description": "Custom WordPress plugin to integrate Cludo search with WordPress content.",
     "license": "MIT",
     "authors": [
         {
