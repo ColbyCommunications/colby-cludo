@@ -74,14 +74,17 @@ Colby Cludo detects four native field types and allows the addition of **custom 
 
 **Example Field Mapping:**
 
-| Field                | Label            |
+| Field                | Label          |
 |----------------------|----------------|
 | `core:post_title`    | Title          |
 | `core:post_date`     | Published Date |
 | `core:permalink`     | URL            |
 | `core:post_type`     | Post Type      |
 | `core:post_excerpt`  | Post Excerpt   |
+| `taxonomies:category`| Categories     |
 | `meta:author`        | Post Author    |
+| `custom:brand`       | Brand          |
+| `custom:event_type`  | Event Type     |
 
 > **Note:** Post ID is automatically included with each post type when indexed.
 
