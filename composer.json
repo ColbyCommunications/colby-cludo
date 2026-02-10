@@ -1,0 +1,27 @@
+{
+    "name": "colbycommunications/colby-cludo",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giovanni Aceto",
+            "email": "gaceto@colby.edu",
+            "role": "Plugin author"
+        }
+    ],
+    "autoload": {
+    "psr-4": {
+        "ColbyCludo\\API\\": "api/",
+        "ColbyCludo\\CLI\\": "cli/",
+        "ColbyCludo\\Utils\\": "utils/"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "preferred-install": "dist"
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+}
+
