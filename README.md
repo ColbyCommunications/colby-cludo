@@ -1,4 +1,4 @@
-# Colby Cludo
+# Colby Cludo (test dispatch)
 
 **Colby Cludo** is a custom WordPress plugin that integrates **Cludo** with WordPress websites.  
 It provides a way to connect your WordPress content with the Cludo search platform using the Cludo API for indexing.
